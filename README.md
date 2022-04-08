@@ -1,6 +1,4 @@
 # websitec
-Creating furniture website for practice 
-Please refer to my UX portfolio as well. 
+Furniture website for practice 
 
-
-Best Skylar C.
+ https://skylarcato.github.io/websitec/ 
